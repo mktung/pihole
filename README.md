@@ -35,6 +35,6 @@ Those are other accessories that came with the Raspberry Pi kit, which will be u
 - Ribbon cable if you want to repurpose the device
 
 ## If you want to customize the device
-If you want to get into the gritty details of the PiHole, the main settings can be configured through `sudo raspi-config` on the commmand line. All other commands are standard Linux, particularly borrowed from Debian. Most importantly, the PiHole command allows you to manage a wide array of options, which are available [here](https://docs.pi-hole.net/core/pihole-command/). If you ever need help with something, feel free to text/call me.
+If you want to get into the gritty details of the PiHole, the main settings can be configured through `sudo raspi-config` on the command line. All other commands are standard Linux, particularly borrowed from Debian. Most importantly, the PiHole command allows you to manage a wide array of options, which are available [here](https://docs.pi-hole.net/core/pihole-command/). If you ever need help with something, feel free to text/call me.
 
 Merry Christmas Dad!
